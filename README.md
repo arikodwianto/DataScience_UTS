@@ -80,11 +80,11 @@ DataScience_UTS/
 |----|-----------|--------|----------|
 | 01 | Pertemuan 1 | 🐍 Pengenalan Data Science | [📄 Buka Notebook](./Pertemuan1.ipynb) |
 | 02 | Pertemuan 2 | 📊 Struktur Data Python, NumPy, dan Pandas | [📄 Buka Notebook](./Pertemuan2.ipynb) |
-| 03 | Pertemuan 3 | 🧹 Data Cleaning: Missing Values, Outlier, dan Ekstraksi Data | [📄 Buka Notebook](./Pertemuan3.ipynb) |
-| 04 | Pertemuan 4 | 📈 Statistika Dasar dan Analisis Data | [📄 Buka Notebook](./Pertemuan4.ipynb) |
-| 05 | Pertemuan 5 | 🎨 Visualisasi Data | [📄 Buka Notebook](./Pertemuan5.ipynb) |
-| 06 | Pertemuan 6 | ⚙️ Persiapan Data / Data Preprocessing | [📄 Buka Notebook](./Pertemuan6.ipynb) |
-| 07 | Pertemuan 7 | 🤖 Pengantar Machine Learning: Regresi Linear | [📄 Buka Notebook](./Pertemuan7.ipynb) |
+| 03 | Pertemuan 3 | 🧹 Data Cleaning: Missing Values, Outlier, dan Ekstraksi Data | [📄 Buka Notebook](./pertemuan3.ipynb) |
+| 04 | Pertemuan 4 | 📈 Statistika Dasar dan Analisis Data | [📄 Buka Notebook](./pertemuan4.ipynb) |
+| 05 | Pertemuan 5 | 🎨 Visualisasi Data | [📄 Buka Notebook](./pertemuan5.ipynb) |
+| 06 | Pertemuan 6 | ⚙️ Persiapan Data / Data Preprocessing | [📄 Buka Notebook](./pertemuan6.ipynb) |
+| 07 | Pertemuan 7 | 🤖 Pengantar Machine Learning: Regresi Linear | [📄 Buka Notebook](./pertemuan7.ipynb) |
 
 ---
 
