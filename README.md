@@ -50,13 +50,13 @@ DataScience_UTS/
 
 | Pertemuan   | Topik Pembelajaran                                         | Link Notebook                          |
 | ----------- | ---------------------------------------------------------- | -------------------------------------- |
-| Pertemuan 1 | Pengenalan Data Science                                    | [📄 Buka Notebook](./Pertemuan1.ipynb) |
-| Pertemuan 2 | Struktur Data Python, NumPy, dan Pandas                    | [📄 Buka Notebook](./pertemuan2.ipynb) |
+| Pertemuan 1 | Pengenalan Data Science | [📄 Buka Notebook](./Pertemuan1.ipynb) |
+| Pertemuan 2 | Struktur Data Python, NumPy, dan Pandas | [📄 Buka Notebook](./Pertemuan2.ipynb) |
 | Pertemuan 3 | Data Cleaning: Missing Values, Outlier, dan Ekstraksi Data | [📄 Buka Notebook](./pertemuan3.ipynb) |
-| Pertemuan 4 | Statistika Dasar dan Analisis Data                         | [📄 Buka Notebook](./pertemuan4.ipynb) |
-| Pertemuan 5 | Visualisasi Data                                           | [📄 Buka Notebook](./pertemuan5.ipynb) |
-| Pertemuan 6 | Persiapan Data / Data Preprocessing                        | [📄 Buka Notebook](./pertemuan6.ipynb) |
-| Pertemuan 7 | Pengantar Machine Learning: Regresi Linear                 | [📄 Buka Notebook](./pertemuan7.ipynb) |
+| Pertemuan 4 | Statistika Dasar dan Analisis Data | [📄 Buka Notebook](./pertemuan4.ipynb) |
+| Pertemuan 5 | Visualisasi Data | [📄 Buka Notebook](./pertemuan5.ipynb) |
+| Pertemuan 6 | Persiapan Data / Data Preprocessing | [📄 Buka Notebook](./pertemuan6.ipynb) |
+| Pertemuan 7 | Pengantar Machine Learning: Regresi Linear | [📄 Buka Notebook](./pertemuan7.ipynb) |
 
 ---
 
